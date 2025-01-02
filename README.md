@@ -9,7 +9,7 @@
 ![Skills](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
 ![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
 
-💻 Desenvolvedor iniciante, apaixonado por aprender e compartilhar conhecimento no mundo da programação.
+💻 Desenvolvedor, apaixonado por aprender e compartilhar conhecimento no mundo da programação.
 
 miguelldev@proton.me           
 
